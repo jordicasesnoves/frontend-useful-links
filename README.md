@@ -8,6 +8,7 @@
 
 ### Cheatsheets
 - [Vue.js Essentials Cheatsheet](https://www.vuemastery.com/pdf/Vue-Essentials-Cheat-Sheet.pdf)
+- [Git + GitHub Cheatsheet](https://education.github.com/git-cheat-sheet-education.pdf)
 
 ### Assets and Images
-- [Unslpash - Free High Resolution Pictures](https://unsplash.com/)
+- [Unsplash - Free High Resolution Pictures](https://unsplash.com/)
