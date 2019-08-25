@@ -5,6 +5,9 @@
 😊 Feel free to **contribute** with your own useful links!
 
 ---
+### Design
+- [Medium - '7 Practical Tips for Cheating at Design'](https://medium.com/refactoring-ui/7-practical-tips-for-cheating-at-design-40c736799886)
+
 ### Git/GitHub
 - [Git + GitHub Cheatsheet](https://education.github.com/git-cheat-sheet-education.pdf)
 
