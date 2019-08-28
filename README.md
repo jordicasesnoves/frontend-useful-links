@@ -11,6 +11,9 @@
 ### Git/GitHub
 - [Git + GitHub Cheatsheet](https://education.github.com/git-cheat-sheet-education.pdf)
 
+### JavaScript
+- [Slick - Carrousel JS Library](https://kenwheeler.github.io/slick/)
+
 ### Vue.js
 - [Vue.js Essentials Cheatsheet](https://www.vuemastery.com/pdf/Vue-Essentials-Cheat-Sheet.pdf)
 
