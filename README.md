@@ -17,6 +17,10 @@
 ### Vue.js
 - [Vue.js Essentials Cheatsheet](https://www.vuemastery.com/pdf/Vue-Essentials-Cheat-Sheet.pdf)
 
+### CSS Frameworks
+- [Element UI](https://element.eleme.io/#/en-US)
+- [Tailwind CSS](https://tailwindcss.com/)
+
 ### Assets and Images
 - [Unsplash - Free High Resolution Pictures](https://unsplash.com/)
 - [Icons8 - Free High Quality Icons](https://icons8.com/)
