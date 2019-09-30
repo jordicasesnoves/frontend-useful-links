@@ -19,6 +19,7 @@
 
 ### Assets and Images
 - [Unsplash - Free High Resolution Pictures](https://unsplash.com/)
+- [Icons8 - Free High Quality Icons](https://icons8.com/)
 
 ### Project Management
 - [Miro - Online Whiteboard for Visual Collaboration](https://miro.com)
