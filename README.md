@@ -7,6 +7,7 @@
 ---
 ### Design
 - [Medium - '7 Practical Tips for Cheating at Design'](https://medium.com/refactoring-ui/7-practical-tips-for-cheating-at-design-40c736799886)
+- [UI Goodies - A collection of quality design resources](https://www.uigoodies.com)
 
 ### Git/GitHub
 - [Git + GitHub Cheatsheet](https://education.github.com/git-cheat-sheet-education.pdf)
