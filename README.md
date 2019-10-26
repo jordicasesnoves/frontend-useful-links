@@ -32,6 +32,9 @@
 - [Prismic](https://prismic.io/)
 - [Strapi](https://strapi.io/)
 
+### Databases
+- [RxDB](https://github.com/pubkey/rxdb)
+
 ### Assets and Images
 - [Unsplash - Free High Resolution Pictures](https://unsplash.com/)
 - [Icons8 - Free High Quality Icons](https://icons8.com/)
