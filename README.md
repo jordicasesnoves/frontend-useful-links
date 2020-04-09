@@ -9,6 +9,10 @@
 - [Google Analytics](https://analytics.google.com/analytics/web/)
 - [Segment (CDI)](https://segment.com)
 
+### Design inspiration
+- [Dribble](https://dribbble.com/)
+- [Lapa Ninja](https://www.lapa.ninja/)
+
 ### Design
 - [Medium - '7 Practical Tips for Cheating at Design'](https://medium.com/refactoring-ui/7-practical-tips-for-cheating-at-design-40c736799886)
 - [UI Goodies - A collection of quality design resources](https://www.uigoodies.com)
