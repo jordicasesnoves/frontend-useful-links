@@ -10,7 +10,7 @@
 - [Segment (CDI)](https://segment.com)
 
 ### Design inspiration
-- [Dribble](https://dribbble.com/)
+- [Dribbble](https://dribbble.com/)
 - [Lapa Ninja](https://www.lapa.ninja/)
 
 ### Design
