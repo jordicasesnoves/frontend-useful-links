@@ -44,5 +44,6 @@
 - [Unsplash - Free High Resolution Pictures](https://unsplash.com/)
 - [Icons8 - Free High Quality Icons](https://icons8.com/)
 - [CSS GG - Minimalistic icon library built by CSS](https://css.gg/)
+- [Unicons - Icon Library](https://iconscout.com/unicons)
 ### Project Management
 - [Miro - Online Whiteboard for Visual Collaboration](https://miro.com)
