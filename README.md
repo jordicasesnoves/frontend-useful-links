@@ -22,6 +22,7 @@
 
 ### JavaScript
 - [Slick - Carrousel JS Library](https://kenwheeler.github.io/slick/)
+- [GSAP - JS Animations Library](https://greensock.com/gsap/)
 
 ### Vue.js
 - [Vue.js Essentials Cheatsheet](https://www.vuemastery.com/pdf/Vue-Essentials-Cheat-Sheet.pdf)
