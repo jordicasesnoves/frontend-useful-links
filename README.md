@@ -39,6 +39,7 @@
 
 ### Databases
 - [RxDB](https://github.com/pubkey/rxdb)
+- [GraphQL Apollo Server Templates](https://github.com/betaflag/graphql-server-scaffolding)
 
 ### Assets and Images
 - [Unsplash - Free High Resolution Pictures](https://unsplash.com/)
