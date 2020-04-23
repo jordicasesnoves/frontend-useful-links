@@ -10,6 +10,8 @@
 - [Segment (CDI)](https://segment.com)
 
 ### Design inspiration
+- [Behance](https://behance.net)
+- [Design Notes](https://designnotes.co)
 - [Dribbble](https://dribbble.com/)
 - [Lapa Ninja](https://www.lapa.ninja/)
 
@@ -31,6 +33,9 @@
 - [Element UI](https://element.eleme.io/#/en-US)
 - [Tailwind CSS](https://tailwindcss.com/)
 - [Ant Design](https://ant.design/)
+- [Bulma CSS](https://bulma.io)
+- [CSS Layout](https://csslayout.io)
+- [Flexbox Grid](flexboxgrid.com)
 
 ### Headless CMS's
 - [Contentful](https://www.contentful.com/)
@@ -48,3 +53,4 @@
 - [Unicons - Icon Library](https://iconscout.com/unicons)
 ### Project Management
 - [Miro - Online Whiteboard for Visual Collaboration](https://miro.com)
+- [Notion](https://notion.so)
