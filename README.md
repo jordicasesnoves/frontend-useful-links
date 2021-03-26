@@ -26,6 +26,10 @@
 - [Slick - Carrousel JS Library](https://kenwheeler.github.io/slick/)
 - [GSAP - JS Animations Library](https://greensock.com/gsap/)
 
+### Project Scaffolding
+- [Vitejs](https://vitejs.dev)
+- [Create React App](https://create-react-app.dev/)
+
 ### Vue.js
 - [Vue.js Essentials Cheatsheet](https://www.vuemastery.com/pdf/Vue-Essentials-Cheat-Sheet.pdf)
 
