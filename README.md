@@ -77,3 +77,4 @@
 ### Deployment
 - [Github Pages](https://pages.github.com/)
 - [Netlify](https://www.netlify.com/)
+- [Vercel](https://www.vercel.com)
