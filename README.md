@@ -26,16 +26,9 @@
 ### Git/GitHub
 - [Git + GitHub Cheatsheet](https://education.github.com/git-cheat-sheet-education.pdf)
 
-### JavaScript
-- [Slick - Carrousel JS Library](https://kenwheeler.github.io/slick/)
-- [GSAP - JS Animations Library](https://greensock.com/gsap/)
-
 ### Project Scaffolding
 - [Vitejs](https://vitejs.dev)
 - [Create React App](https://create-react-app.dev/)
-
-### Vue.js
-- [Vue.js Essentials Cheatsheet](https://www.vuemastery.com/pdf/Vue-Essentials-Cheat-Sheet.pdf)
 
 ### CSS/UI Frameworks
 - [Element UI](https://element.eleme.io/#/en-US)
@@ -48,6 +41,8 @@
 ### Animations libraries
 - [Motion One](https://motion.dev/)
 - [Framer Motion](https://www.framer.com/motion/)
+- [Slick - Carrousel JS Library](https://kenwheeler.github.io/slick/)
+- [GSAP - JS Animations Library](https://greensock.com/gsap/)
 
 ### Headless CMS's
 - [Contentful](https://www.contentful.com/)
