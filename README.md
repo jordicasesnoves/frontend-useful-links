@@ -22,6 +22,7 @@
 - [Icons8 - Free High Quality Icons](https://icons8.com/)
 - [Unicons - Icon Library](https://iconscout.com/unicons)
 - [Unsplash - Free High Resolution Pictures](https://unsplash.com/)
+- [Squoosh - Optimize images](https://squoosh.app/)
 
 ### CSS/UI Frameworks
 - [Ant Design](https://ant.design/)
@@ -32,7 +33,6 @@
 - [Tailwind CSS](https://tailwindcss.com/)
 
 ### Databases
-- [GraphQL Apollo Server Templates](https://github.com/betaflag/graphql-server-scaffolding)
 - [PlanetScale](https://planetscale.com/)
 - [RxDB](https://github.com/pubkey/rxdb)
 - [Supabase](https://supabase.com/)
