@@ -45,12 +45,17 @@
 - [CSS Layout](https://csslayout.io)
 - [Flexbox Grid](flexboxgrid.com)
 
+### Animations libraries
+- [Motion One](https://motion.dev/)
+- [Framer Motion](https://www.framer.com/motion/)
+
 ### Headless CMS's
 - [Contentful](https://www.contentful.com/)
 - [Prismic](https://prismic.io/)
 - [Strapi](https://strapi.io/)
 
 ### Databases
+- [Upstash](https://upstash.com/)
 - [PlanetScale](https://planetscale.com/)
 - [RxDB](https://github.com/pubkey/rxdb)
 - [GraphQL Apollo Server Templates](https://github.com/betaflag/graphql-server-scaffolding)
