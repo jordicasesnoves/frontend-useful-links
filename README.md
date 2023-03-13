@@ -57,6 +57,7 @@
 - [Upstash](https://upstash.com/)
 - [PlanetScale](https://planetscale.com/)
 - [RxDB](https://github.com/pubkey/rxdb)
+- [Supabase](https://supabase.com/)
 - [GraphQL Apollo Server Templates](https://github.com/betaflag/graphql-server-scaffolding)
 
 ### Assets and Images
@@ -69,3 +70,8 @@
 ### Project Management
 - [Miro - Online Whiteboard for Visual Collaboration](https://miro.com)
 - [Notion](https://notion.so)
+
+### Deployment
+- [Vercel](https://vercel.com/)
+- [Netlify](https://www.netlify.com/)
+- [Github Pages](https://pages.github.com/)
