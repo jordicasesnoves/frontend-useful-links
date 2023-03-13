@@ -51,6 +51,7 @@
 - [Strapi](https://strapi.io/)
 
 ### Databases
+- [PlanetScale](https://planetscale.com/)
 - [RxDB](https://github.com/pubkey/rxdb)
 - [GraphQL Apollo Server Templates](https://github.com/betaflag/graphql-server-scaffolding)
 
@@ -59,6 +60,8 @@
 - [Icons8 - Free High Quality Icons](https://icons8.com/)
 - [CSS GG - Minimalistic icon library built by CSS](https://css.gg/)
 - [Unicons - Icon Library](https://iconscout.com/unicons)
+- [Blobmaker - Make organic SVG shapes for your next design](https://www.blobmaker.app/)
+
 ### Project Management
 - [Miro - Online Whiteboard for Visual Collaboration](https://miro.com)
 - [Notion](https://notion.so)
