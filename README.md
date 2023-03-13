@@ -6,12 +6,41 @@
 
 ---
 
-### General
-- [How to write a CV by Harvard](https://hwpi.harvard.edu/files/ocs/files/hes-resume-cover-letter-guide.pdf)
-
 ### Analytics
 - [Google Analytics](https://analytics.google.com/analytics/web/)
 - [Segment (CDI)](https://segment.com)
+
+### Animations libraries
+- [Framer Motion](https://www.framer.com/motion/)
+- [GSAP - JS Animations Library](https://greensock.com/gsap/)
+- [Motion One](https://motion.dev/)
+- [Slick - Carrousel JS Library](https://kenwheeler.github.io/slick/)
+
+### Assets and Images
+- [Blobmaker - Make organic SVG shapes for your next design](https://www.blobmaker.app/)
+- [CSS GG - Minimalistic icon library built by CSS](https://css.gg/)
+- [Icons8 - Free High Quality Icons](https://icons8.com/)
+- [Unicons - Icon Library](https://iconscout.com/unicons)
+- [Unsplash - Free High Resolution Pictures](https://unsplash.com/)
+
+### CSS/UI Frameworks
+- [Ant Design](https://ant.design/)
+- [Bulma CSS](https://bulma.io)
+- [CSS Layout](https://csslayout.io)
+- [Element UI](https://element.eleme.io/#/en-US)
+- [Flexbox Grid](flexboxgrid.com)
+- [Tailwind CSS](https://tailwindcss.com/)
+
+### Databases
+- [GraphQL Apollo Server Templates](https://github.com/betaflag/graphql-server-scaffolding)
+- [PlanetScale](https://planetscale.com/)
+- [RxDB](https://github.com/pubkey/rxdb)
+- [Supabase](https://supabase.com/)
+- [Upstash](https://upstash.com/)
+
+### Design
+- [Medium - '7 Practical Tips for Cheating at Design'](https://medium.com/refactoring-ui/7-practical-tips-for-cheating-at-design-40c736799886)
+- [UI Goodies - A collection of quality design resources](https://www.uigoodies.com)
 
 ### Design inspiration
 - [Behance](https://behance.net)
@@ -19,59 +48,29 @@
 - [Dribbble](https://dribbble.com/)
 - [Lapa Ninja](https://www.lapa.ninja/)
 
-### Design
-- [Medium - '7 Practical Tips for Cheating at Design'](https://medium.com/refactoring-ui/7-practical-tips-for-cheating-at-design-40c736799886)
-- [UI Goodies - A collection of quality design resources](https://www.uigoodies.com)
+### General
+- [How to write a CV by Harvard](https://hwpi.harvard.edu/files/ocs/files/hes-resume-cover-letter-guide.pdf)
 
 ### Git/GitHub
 - [Git + GitHub Cheatsheet](https://education.github.com/git-cheat-sheet-education.pdf)
 
-### Project Scaffolding
-- [Vitejs](https://vitejs.dev)
-- [Create React App](https://create-react-app.dev/)
-
-### CSS/UI Frameworks
-- [Element UI](https://element.eleme.io/#/en-US)
-- [Tailwind CSS](https://tailwindcss.com/)
-- [Ant Design](https://ant.design/)
-- [Bulma CSS](https://bulma.io)
-- [CSS Layout](https://csslayout.io)
-- [Flexbox Grid](flexboxgrid.com)
-
-### Animations libraries
-- [Motion One](https://motion.dev/)
-- [Framer Motion](https://www.framer.com/motion/)
-- [Slick - Carrousel JS Library](https://kenwheeler.github.io/slick/)
-- [GSAP - JS Animations Library](https://greensock.com/gsap/)
-
 ### Headless CMS's
 - [Contentful](https://www.contentful.com/)
+- [Directus](https://directus.io/)
+- [Ghost](https://ghost.org/)
+- [Hygraph (Formerly GraphCMS)](https://hygraph.com/)
+- [Payload](https://payloadcms.com/)
 - [Prismic](https://prismic.io/)
 - [Strapi](https://strapi.io/)
-- [Ghost](https://ghost.org/)
-- [Directus](https://directus.io/)
-- [Payload](https://payloadcms.com/)
-- [Hygraph (Formerly GraphCMS)](https://hygraph.com/)
-
-### Databases
-- [Upstash](https://upstash.com/)
-- [PlanetScale](https://planetscale.com/)
-- [RxDB](https://github.com/pubkey/rxdb)
-- [Supabase](https://supabase.com/)
-- [GraphQL Apollo Server Templates](https://github.com/betaflag/graphql-server-scaffolding)
-
-### Assets and Images
-- [Unsplash - Free High Resolution Pictures](https://unsplash.com/)
-- [Icons8 - Free High Quality Icons](https://icons8.com/)
-- [CSS GG - Minimalistic icon library built by CSS](https://css.gg/)
-- [Unicons - Icon Library](https://iconscout.com/unicons)
-- [Blobmaker - Make organic SVG shapes for your next design](https://www.blobmaker.app/)
 
 ### Project Management
 - [Miro - Online Whiteboard for Visual Collaboration](https://miro.com)
 - [Notion](https://notion.so)
 
+### Project Scaffolding
+- [Create React App](https://create-react-app.dev/)
+- [Vitejs](https://vitejs.dev)
+
 ### Deployment
-- [Vercel](https://vercel.com/)
-- [Netlify](https://www.netlify.com/)
 - [Github Pages](https://pages.github.com/)
+- [Netlify](https://www.netlify.com/)
