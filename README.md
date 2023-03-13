@@ -24,12 +24,15 @@
 - [Unsplash - Free High Resolution Pictures](https://unsplash.com/)
 - [Squoosh - Optimize images](https://squoosh.app/)
 
-### CSS/UI Frameworks
-- [Ant Design](https://ant.design/)
-- [Bulma CSS](https://bulma.io)
+### CSS
 - [CSS Layout](https://csslayout.io)
+
+### CSS Component Libraries
+- [Ant Design](https://ant.design/)
 - [Element UI](https://element.eleme.io/#/en-US)
-- [Flexbox Grid](flexboxgrid.com)
+
+### CSS Frameworks
+- [Bulma CSS](https://bulma.io)
 - [Tailwind CSS](https://tailwindcss.com/)
 
 ### Databases
