@@ -5,6 +5,8 @@
 😊 Feel free to **contribute** with your own useful links!
 
 ---
+### General
+- [How to write a CV by Harvard](https://hwpi.harvard.edu/files/ocs/files/hes-resume-cover-letter-guide.pdf)
 ### Analytics
 - [Google Analytics](https://analytics.google.com/analytics/web/)
 - [Segment (CDI)](https://segment.com)
