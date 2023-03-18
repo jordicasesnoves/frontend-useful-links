@@ -35,9 +35,9 @@
 - [Bulma CSS](https://bulma.io)
 - [Tailwind CSS](https://tailwindcss.com/)
 
-### Databases
+### Cloud Databases
 - [PlanetScale](https://planetscale.com/)
-- [RxDB](https://github.com/pubkey/rxdb)
+- [Railway](https://railway.app/)
 - [Supabase](https://supabase.com/)
 - [Upstash](https://upstash.com/)
 
