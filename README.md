@@ -25,6 +25,7 @@
 - [Unicons - Icon Library](https://iconscout.com/unicons)
 - [Unsplash - Free High Resolution Pictures](https://unsplash.com/)
 - [Squoosh - Optimize images](https://squoosh.app/)
+- [LottieFiles: Download Free lightweight animations for website & apps](https://lottiefiles.com/)
 
 ### CSS
 - [CSS Layout](https://csslayout.io)
@@ -34,7 +35,6 @@
 - [Element UI](https://element.eleme.io/#/en-US)
 - [schadcn/ui - Beautifully designed components built with Radix UI and Tailwind CSS](https://ui.shadcn.com/)
 - [MUI: The React component library you always wanted](https://mui.com/)
-- [LottieFiles: Download Free lightweight animations for website & apps](https://lottiefiles.com/)
 
 ### CSS Frameworks
 - [Bulma CSS](https://bulma.io)
