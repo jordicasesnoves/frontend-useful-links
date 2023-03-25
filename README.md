@@ -56,6 +56,9 @@
 - [Dribbble](https://dribbble.com/)
 - [Lapa Ninja](https://www.lapa.ninja/)
 
+### Development tools
+- [Package Phobia - Find the cost of adding a new dev dependency to your project](https://packagephobia.com/)
+
 ### General
 - [How to write a CV by Harvard](https://hwpi.harvard.edu/files/ocs/files/hes-resume-cover-letter-guide.pdf)
 
