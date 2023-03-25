@@ -17,6 +17,7 @@
 - [Slick - Carrousel JS Library](https://kenwheeler.github.io/slick/)
 
 ### Assets and Images
+- [Shots - Create amazing mockups](https://shots.so/)
 - [Blobmaker - Make organic SVG shapes for your next design](https://www.blobmaker.app/)
 - [CSS GG - Minimalistic icon library built by CSS](https://css.gg/)
 - [Icons8 - Free High Quality Icons](https://icons8.com/)
