@@ -41,7 +41,6 @@
 
 ### Cloud Databases
 - [PlanetScale](https://planetscale.com/)
-- [Railway](https://railway.app/)
 - [Supabase](https://supabase.com/)
 - [Upstash](https://upstash.com/)
 
@@ -83,3 +82,4 @@
 - [Github Pages](https://pages.github.com/)
 - [Netlify](https://www.netlify.com/)
 - [Vercel](https://www.vercel.com)
+- [Railway](https://railway.app/)
