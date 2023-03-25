@@ -32,6 +32,7 @@
 ### CSS Component Libraries
 - [Ant Design](https://ant.design/)
 - [Element UI](https://element.eleme.io/#/en-US)
+- [schadcn/ui - Beautifully designed components built with Radix UI and Tailwind CSS](https://ui.shadcn.com/)
 
 ### CSS Frameworks
 - [Bulma CSS](https://bulma.io)
