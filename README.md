@@ -34,6 +34,7 @@
 - [Element UI](https://element.eleme.io/#/en-US)
 - [schadcn/ui - Beautifully designed components built with Radix UI and Tailwind CSS](https://ui.shadcn.com/)
 - [MUI: The React component library you always wanted](https://mui.com/)
+- [LottieFiles: Download Free lightweight animations for website & apps](https://lottiefiles.com/)
 
 ### CSS Frameworks
 - [Bulma CSS](https://bulma.io)
