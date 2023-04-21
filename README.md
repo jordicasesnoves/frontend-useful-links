@@ -82,6 +82,7 @@
 ### Project Scaffolding
 - [Create React App](https://create-react-app.dev/)
 - [Vitejs](https://vitejs.dev)
+- [createapp - Webpack/Parcel/Snowpack config generator](https://createapp.dev/)
 
 ### Deployment
 - [Github Pages](https://pages.github.com/)
