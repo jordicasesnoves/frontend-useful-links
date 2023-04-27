@@ -16,6 +16,7 @@
 - [Motion One](https://motion.dev/)
 - [Slick - Carrousel JS Library](https://kenwheeler.github.io/slick/)
 - [Atropos - Stunning touch-friendly 3D parallax hover effects](https://atroposjs.com/)
+- [The HTML presentation framework - revealJS](https://revealjs.com/)
 
 ### Assets and Images
 - [Shots - Create amazing mockups](https://shots.so/)
