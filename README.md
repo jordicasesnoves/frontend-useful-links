@@ -17,6 +17,7 @@
 - [Slick - Carrousel JS Library](https://kenwheeler.github.io/slick/)
 - [Atropos - Stunning touch-friendly 3D parallax hover effects](https://atroposjs.com/)
 - [The HTML presentation framework - revealJS](https://revealjs.com/)
+- [Tailwind CSS Animated](https://github.com/new-data-services/tailwindcss-animated)
 
 ### Assets and Images
 - [Shots - Create amazing mockups](https://shots.so/)
