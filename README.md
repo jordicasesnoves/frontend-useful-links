@@ -40,6 +40,7 @@
 - [MUI: The React component library you always wanted](https://mui.com/)
 - [Radix UI - Unstyled, accessible components for building high‑quality design systems and web apps in React](https://www.radix-ui.com/)
 - [Headless UI - Unstyled, fully accessible UI components](https://headlessui.com/)
+- [Tremor – The React library to build dashboards fast](https://www.tremor.so/)
 
 ### CSS Frameworks
 - [Bulma CSS](https://bulma.io)
