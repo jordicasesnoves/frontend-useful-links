@@ -25,6 +25,7 @@
 - [CSS GG - Minimalistic icon library built by CSS](https://css.gg/)
 - [Icons8 - Free High Quality Icons](https://icons8.com/)
 - [Unicons - Icon Library](https://iconscout.com/unicons)
+- [Lucide - Beautiful & consistent icon toolkit made by the community.](https://lucide.dev/)
 - [Unsplash - Free High Resolution Pictures](https://unsplash.com/)
 - [Squoosh - Optimize images](https://squoosh.app/)
 - [LottieFiles: Download Free lightweight animations for website & apps](https://lottiefiles.com/)
