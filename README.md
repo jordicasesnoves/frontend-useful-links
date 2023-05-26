@@ -10,13 +10,16 @@
 - [Google Analytics](https://analytics.google.com/analytics/web/)
 - [Segment (CDI)](https://segment.com)
 
+### Libraries
+- [zod - TypeScript-first schema validation with static type inference](https://github.com/colinhacks/zod)
+- [React Hook Form - Performant, flexible and extensible forms with easy-to-use validation.](https://react-hook-form.com/)
+
 ### Animations libraries
 - [Framer Motion](https://www.framer.com/motion/)
 - [GSAP - JS Animations Library](https://greensock.com/gsap/)
 - [Motion One](https://motion.dev/)
 - [Slick - Carrousel JS Library](https://kenwheeler.github.io/slick/)
 - [Atropos - Stunning touch-friendly 3D parallax hover effects](https://atroposjs.com/)
-- [The HTML presentation framework - revealJS](https://revealjs.com/)
 - [Tailwind CSS Animated](https://github.com/new-data-services/tailwindcss-animated)
 
 ### Assets and Images
@@ -69,6 +72,7 @@
 
 ### General
 - [How to write a CV by Harvard](https://hwpi.harvard.edu/files/ocs/files/hes-resume-cover-letter-guide.pdf)
+- [The HTML presentation framework - revealJS](https://revealjs.com/)
 
 ### Git/GitHub
 - [Git + GitHub Cheatsheet](https://education.github.com/git-cheat-sheet-education.pdf)
