@@ -34,6 +34,7 @@
 - [Squoosh - Optimize images](https://squoosh.app/)
 - [LottieFiles: Download Free lightweight animations for website & apps](https://lottiefiles.com/)
 - [CSS Shadow Palette Generator](https://www.joshwcomeau.com/shadow-palette/)
+- [Chroma AI — Generate gradients based on your mood](https://chroma.szhao.dev/)
 
 ### CSS
 - [CSS Layout](https://csslayout.io)
