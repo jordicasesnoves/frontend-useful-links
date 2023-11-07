@@ -14,6 +14,7 @@
 - [zod - TypeScript-first schema validation with static type inference](https://github.com/colinhacks/zod)
 - [tRPC - Move Fast and Break Nothing. End-to-end typesafe APIs made easy.](https://trpc.io/)
 - [React Hook Form - Performant, flexible and extensible forms with easy-to-use validation.](https://react-hook-form.com/)
+- [Background Removal in the Browser & Node.js](https://github.com/imgly/background-removal-js)
 
 ### Animations libraries
 - [Framer Motion](https://www.framer.com/motion/)
